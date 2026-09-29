@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#000000" />
+  <rect x="76" y="76" width="360" height="360" rx="32" fill="#18181b" stroke="#3f3f46" stroke-width="8" />
+  <rect x="116" y="116" width="280" height="230" rx="16" fill="#f4f4f5" />
+  <!-- E-ink text lines -->
+  <line x1="146" y1="156" x2="366" y2="156" stroke="#18181b" stroke-width="12" stroke-linecap="round" />
+  <line x1="146" y1="196" x2="366" y2="196" stroke="#18181b" stroke-width="12" stroke-linecap="round" />
+  <line x1="146" y1="236" x2="330" y2="236" stroke="#18181b" stroke-width="12" stroke-linecap="round" />
+  <line x1="146" y1="276" x2="300" y2="276" stroke="#18181b" stroke-width="12" stroke-linecap="round" />
+  <!-- Hardware button at bottom -->
+  <circle cx="256" cy="390" r="18" fill="#52525b" stroke="#71717a" stroke-width="4" />
+</svg>

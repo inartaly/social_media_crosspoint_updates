@@ -1,0 +1,6 @@
+{
+  "name": "CrossPoint Release Bot",
+  "description": "Social media bot for CrossPoint open-source hardware community drafting concise, engaging release tweets for X.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
